@@ -1,1 +1,3 @@
-# alx-system_engineering-devops
+# alx-system_engineering-devopsShell basics
+ shell basics 
+ Shell redirections 
