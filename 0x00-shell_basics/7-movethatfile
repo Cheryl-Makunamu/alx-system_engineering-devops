@@ -1,11 +1,2 @@
 #!/bin/bash
-
-# Check if betty file exists in /tmp/
-if [ -f /tmp/betty ]; then
-    # Move betty file to /tmp/my_first_directory
-    mv /tmp/betty /tmp/my_first_directory/
-    echo "File 'betty' moved to '/tmp/my_first_directory'."
-else
-    echo "Error: File 'betty' not found in '/tmp/'."
-fi
-
+mv /tmp/betty /tmp/my_first_directory
